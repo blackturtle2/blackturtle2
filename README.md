@@ -1,4 +1,4 @@
-### Hi there 👋  [<img src="https://github.com/blackturtle2/RedCalendar/blob/master/RedCalendar-iOS/RedCalendar/Assets.xcassets/AppIcon.appiconset/app-icon-40@2x.png" alt="Go to App Store" width = 50 align = right>](https://apps.apple.com/kr/app/%EB%B9%A8%EA%B0%84%EB%8B%AC%EB%A0%A5-2020/id1489018103)  
+### Hi there 👋  [<img src="https://github.com/blackturtle2/blackturtle2/blob/master/redcalendar_store_image.png" alt="Go to App Store" width = 50 align = right>](https://apps.apple.com/kr/app/%EB%B9%A8%EA%B0%84%EB%8B%AC%EB%A0%A5-2020/id1489018103)  
 
 🚀 I'm swimming in a side project called `Red Calendar`. [<img src="https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Go to App Store">](https://apps.apple.com/kr/app/%EB%B9%A8%EA%B0%84%EB%8B%AC%EB%A0%A5-2020/id1489018103)  
 📱 `Red Calendar` has more than 10,000 daily active users.  
