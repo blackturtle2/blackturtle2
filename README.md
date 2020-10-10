@@ -8,7 +8,7 @@
   
 
 ---
-🔭 I’m currently working on Streami.  
+🔭 I’m currently working as an iOS developer on Streami.  
 🧑🏻‍🏫 I have taught Project Management at "Fast Campus" and at some public institutions.  
 💻 I gave general knowledge of development to non-majors such as PM/planner/designer.
 
