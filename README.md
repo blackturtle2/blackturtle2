@@ -1,6 +1,6 @@
 ### Hi there 👋  [<img src="https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Go to App Store" align = right>](https://apps.apple.com/kr/app/%EB%B9%A8%EA%B0%84%EB%8B%AC%EB%A0%A5-2020/id1489018103)  
 
-[<img src="https://github.com/blackturtle2/blackturtle2/blob/master/redcalendar_store_image.png" alt="Go to App Store" width = 50>](https://apps.apple.com/kr/app/%EB%B9%A8%EA%B0%84%EB%8B%AC%EB%A0%A5-2020/id1489018103)  
+[<img src="https://github.com/blackturtle2/blackturtle2/blob/master/app-icon~iOS-marketing.png" alt="Go to App Store" width = 50>](https://apps.apple.com/kr/app/%EB%B9%A8%EA%B0%84%EB%8B%AC%EB%A0%A5-2020/id1489018103)  
 🚀 I'm swimming in a side project called `Red Calendar`.  
 📱 `Red Calendar` has more than 20,000 daily active users.  
 ⭐️ `Red Calendar` has over 8,000 user reviews and a rating of 4.0+! (As of November 2021)  
